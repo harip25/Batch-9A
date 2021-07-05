@@ -9,6 +9,7 @@ Written by Waleed Abdulla
 
 import os
 import sys
+import cv2 as cv
 import random
 import itertools
 import colorsys
